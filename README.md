@@ -32,7 +32,7 @@
 <div style="display: flex">
     <img style="padding: 5px" src="https://img.shields.io/badge/github-111?style=for-the-badge&logo=github&logoColor=7FFD4"/>
 </div>
-- 💼 any freelance work? do reach, [email](mailto:golovaschukdima@gmail.com) :)
-- 💬 ask me about anything, i am happy to help;
-<p> <img src="https://github-readme-stats.vercel.app/api?username=goldima34&show_icons=true&theme=gotham" alt="goldima34" />
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<p>- 💼 any freelance work? do reach, golvaschukdima@gmail.com :)</p>
+<p>- 💬 ask me about anything, i am happy to help;</p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=goldima34&show_icons=true&theme=gotham" alt="goldima34" />
+<img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
