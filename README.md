@@ -1,5 +1,4 @@
-### ![image](https://github.com/goldima34/goldima34/assets/119614484/b15076d1-2131-4ad7-b0a9-e890fd7e2119)
- Hey! Nice to see you.
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 <!--
 **goldima34/goldima34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
