@@ -32,7 +32,7 @@
 <div style="display: flex">
     <img style="padding: 5px" src="https://img.shields.io/badge/github-111?style=for-the-badge&logo=github&logoColor=7FFD4"/>
 </div>
-<p>- 💼 any freelance work? do reach, golvaschukdima@gmail.com :)</p>
+<p>- 💼 any freelance work? do reach, golovaschukdima@gmail.com :)</p>
 <p>- 💬 ask me about anything, i am happy to help;</p>
 <!-- <div>
 <p> <img src="https://github-readme-stats.vercel.app/api?username=goldima34&show_icons=true&theme=gotham" alt="goldima34" />
