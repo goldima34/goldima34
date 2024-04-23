@@ -34,9 +34,9 @@
 </div>
 <p>- 💼 any freelance work? do reach, golvaschukdima@gmail.com :)</p>
 <p>- 💬 ask me about anything, i am happy to help;</p>
-<div>
+<!-- <div>
 <p> <img src="https://github-readme-stats.vercel.app/api?username=goldima34&show_icons=true&theme=gotham" alt="goldima34" />
 </div>
 <div>
 <img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-</div>
+</div> -->
