@@ -25,8 +25,6 @@
     <img style="padding: 5px" src="https://img.shields.io/badge/python-111?style=for-the-badge&logo=python&logoColor=7FFD4"/>
 </div>
 <div style="display: flex">
-    <img style="padding: 5px" src="https://img.shields.io/badge/C++-111?style=for-the-badge&logo=cplusplus&logoColor=7FFD4"/>
-    <img style="padding: 5px" src="https://img.shields.io/badge/csharp-111?style=for-the-badge&logo=csharp&logoColor=7FFD4"/>
     <img style="padding: 5px" src="https://img.shields.io/badge/MSSQL-111?style=for-the-badge&logo=mysql&logoColor=7FFD4"/>
 </div>
 <div style="display: flex">
